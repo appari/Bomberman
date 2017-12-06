@@ -54,4 +54,4 @@
 
 
 * Execution:
-The game can be played executing the command 'python3 game.py' in Assignment1_20161038 directory.
+	>The game can be played executing the command 'python3 game.py' in Assignment1_20161038 directory.
