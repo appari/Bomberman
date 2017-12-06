@@ -52,17 +52,6 @@
 	>You are also given 5 lives to complete the game.
 	>The bomb explodes after 3s of placement.	
 
-* Directory Structure:
-    Assignment1_20161038.zip
-    |--Assignment1_20161038
-        |--game.py
-        |--board.py
-        |--person.py
-        |--bomb.py
-        |--alarmexception.py
-        |--getchunix.py
-        |--enemy.py
-        |--README.tex
-        |--requirements.txt
+
 * Execution:
 The game can be played executing the command 'python3 game.py' in Assignment1_20161038 directory.
